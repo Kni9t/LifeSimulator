@@ -1,0 +1,16 @@
+E:\3-For programming\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.exe.config
+E:\3-For programming\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.exe
+E:\3-For programming\LifeSimulator\LifeSimulator\bin\Debug\LifeSimulator.pdb
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.AssemblyReference.cache
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.SuggestedBindingRedirects.cache
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\MainWindow.g.cs
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\App.g.cs
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator_MarkupCompile.cache
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator_MarkupCompile.lref
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\MainWindow.baml
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.g.resources
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.Properties.Resources.resources
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.GenerateResource.cache
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.csproj.CoreCompileInputs.cache
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.exe
+E:\3-For programming\LifeSimulator\LifeSimulator\obj\Debug\LifeSimulator.pdb

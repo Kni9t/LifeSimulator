@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <ListBox HorizontalAlignment="Left" Height="295" Margin="47,50,0,0" VerticalAlignment="Top" Width="383" d:ItemsSource="{d:SampleData ItemCount=5}" Name="TextBox"/>
     </Grid>
 </Window>
