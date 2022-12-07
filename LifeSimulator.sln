@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeSimulator", "LifeSimulator\LifeSimulator.csproj", "{EC576C39-D763-4387-8835-C0D965F81EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC576C39-D763-4387-8835-C0D965F81EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC576C39-D763-4387-8835-C0D965F81EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC576C39-D763-4387-8835-C0D965F81EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC576C39-D763-4387-8835-C0D965F81EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E771152-969A-46B2-BC1B-DF74DB88CFB9}
+	EndGlobalSection
+EndGlobal
